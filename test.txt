@@ -1,13 +1,17 @@
-<html>
+﻿<html>
 <style>
 </style>
 
 
 <body>
-<<<<<<< HEAD
 
-=======
->>>>>>> parent of 255b97a... script 추가
+<header>
+<h1>git</h1>
+</header>
+<ul>
+
+하하
+</ul>
 </body>
 
 </html>
