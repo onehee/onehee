@@ -1,13 +1,10 @@
-<html>
+﻿<html>
 <style>
 </style>
 
 
 <body>
-<<<<<<< HEAD
-
-=======
->>>>>>> parent of 255b97a... script 추가
+실험이다
 </body>
 
 </html>
