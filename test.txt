@@ -4,7 +4,10 @@
 
 
 <body>
+<<<<<<< HEAD
 
+=======
+>>>>>>> parent of 255b97a... script 추가
 </body>
 
 </html>
