@@ -4,15 +4,15 @@
 
 
 <body>
-<<<<<<< HEAD
+
 <ul>
 <header>
 <h1>git</h1>
+
+<p>충돌</p>
 </header>
 </ul> 
-=======
-실험이다
->>>>>>> 실험
+
 </body>
 
 </html>
