@@ -4,11 +4,15 @@
 
 
 <body>
+<<<<<<< HEAD
 <ul>
 <header>
 <h1>git</h1>
 </header>
 </ul> 
+=======
+실험이다
+>>>>>>> 실험
 </body>
 
 </html>
