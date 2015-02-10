@@ -4,14 +4,11 @@
 
 
 <body>
-
+<ul>
 <header>
 <h1>git</h1>
 </header>
-<ul>
-
-하하
-</ul>
+</ul> 
 </body>
 
 </html>
